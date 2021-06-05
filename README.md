@@ -23,13 +23,9 @@
 
 ### Spotify Playing 🎧
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e7uyk7g5pqbiuoibtelum4gkle)
-
 ---
 
 ### Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -38,9 +34,7 @@
 <!-- YOUTUBE:END -->
 
 ---
-### Weekly Development 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### Weekly Development
 
 
 ---
