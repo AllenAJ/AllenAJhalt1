@@ -22,7 +22,7 @@
 ---
 
 ### Spotify Playing 🎧
-
+![allen's spotify](https://spotify-recently-played-readme.vercel.app/api?user=31e7uyk7g5pqbiuoibtelum4gkle)
 ---
 
 ### Blog posts
