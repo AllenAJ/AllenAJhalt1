@@ -37,11 +37,11 @@
 
 ### Youtube videos
 <!-- YOUTUBE:START -->
+- [MY CODING JOURNEY!](https://www.youtube.com/watch?v=dTFyURD2B0Y)
 - [What is Blockchain?  | For Beginners 101 | NEW](https://www.youtube.com/watch?v=HFuRULRrgcM)
 - [Beginners Guide to Summer of Bitcoin | 2,500$ Stipend Internship](https://www.youtube.com/watch?v=O_AkCqUn7pk)
 - [How To Create An Amazing Profile ReadMe for GitHub &lpar;NEW&rpar; | SPOTIFY | Recent Blogs/Videos | Stats !](https://www.youtube.com/watch?v=ZTYPybjYqpo)
 - [How To Build and Host a React/Gatsby Portfolio Website In 10 Minutes](https://www.youtube.com/watch?v=Fk2jIqeqjI8)
-- [How To Build and Host a React/Gatsby Blog Website In 10 Minutes](https://www.youtube.com/watch?v=VSCGzlvU7Ok)
 <!-- YOUTUBE:END -->
 
 ---
