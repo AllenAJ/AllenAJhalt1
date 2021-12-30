@@ -37,11 +37,11 @@
 
 ### Youtube videos
 <!-- YOUTUBE:START -->
+- [Best music to code!](https://www.youtube.com/watch?v=sGdu4D30JfU)
 - [Ideas for beginners programmer!](https://www.youtube.com/watch?v=v0IlDShSaw4)
 - [How to start coding!](https://www.youtube.com/watch?v=rUVr7QvPBZc)
 - [HOW TO START CODING!](https://www.youtube.com/watch?v=dTFyURD2B0Y)
 - [What is Blockchain?  | For Beginners 101 | NEW](https://www.youtube.com/watch?v=HFuRULRrgcM)
-- [Beginners Guide to Summer of Bitcoin | 2,500$ Stipend Internship](https://www.youtube.com/watch?v=O_AkCqUn7pk)
 <!-- YOUTUBE:END -->
 
 ---
