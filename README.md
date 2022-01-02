@@ -37,11 +37,11 @@
 
 ### Youtube videos
 <!-- YOUTUBE:START -->
+- [Technical job interviews](https://www.youtube.com/watch?v=g7oNeHveJWM)
 - [Best JavaScript project!](https://www.youtube.com/watch?v=Zo4brSssMkw)
 - [First day of coding!](https://www.youtube.com/watch?v=rYvf7KoCwco)
 - [Best music to code!](https://www.youtube.com/watch?v=sGdu4D30JfU)
 - [Ideas for beginners programmer!](https://www.youtube.com/watch?v=v0IlDShSaw4)
-- [How to start coding!](https://www.youtube.com/watch?v=rUVr7QvPBZc)
 <!-- YOUTUBE:END -->
 
 ---
