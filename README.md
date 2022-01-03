@@ -37,11 +37,11 @@
 
 ### Youtube videos
 <!-- YOUTUBE:START -->
+- [When you start coding vs a pro](https://www.youtube.com/watch?v=oyVPOjibJ60)
 - [Technical job interviews](https://www.youtube.com/watch?v=g7oNeHveJWM)
 - [Best JavaScript project!](https://www.youtube.com/watch?v=Zo4brSssMkw)
 - [First day of coding!](https://www.youtube.com/watch?v=rYvf7KoCwco)
 - [Best music to code!](https://www.youtube.com/watch?v=sGdu4D30JfU)
-- [Ideas for beginners programmer!](https://www.youtube.com/watch?v=v0IlDShSaw4)
 <!-- YOUTUBE:END -->
 
 ---
